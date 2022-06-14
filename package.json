@@ -1,0 +1,21 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "working with node",
+  "main": "app.js",
+  "author": "Osiris <saadcarnix012@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "choco": "^0.2.1",
+    "express": "^4.18.1",
+    "nvs": "^0.5.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
